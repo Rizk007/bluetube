@@ -26,7 +26,7 @@
                     <a href="/profile/" style="width: 32px; height: 32px;">
                         <img src="" class="rounded-circle w-100">
                     </a>
-                    <a href="/profile/" class="my-0 ml-3 text-dark text-decoration-none">KhalidLam</a>
+                    <a href="/profile/" class="my-0 ml-3 text-dark text-decoration-none">Nihmathulla</a>
                 </div>
                 <div  class="card-dots">
                     <i class="fas fa-ellipsis-h"></i>

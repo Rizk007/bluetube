@@ -244,7 +244,7 @@
 
                     <!-- CopyRight -->
                     <div>
-                        <span style='color: #a6b3be;'>© 2020 InstaClone from KhalidLam</span>
+                        <span style='color: #a6b3be;'>© 2021 Bluetube from Nihmathulla</span>
                     </div>
 
                 </div>

@@ -8,7 +8,7 @@
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
     {{-- Title --}}
-    <title>{{ config('app.name', 'InstaClone') }}</title>
+    <title>{{ config('app.name', 'Bluetube') }}</title>
 
     <!-- Scripts -->
     <script src="{{ asset('js/app.js') }}" defer></script>
@@ -32,7 +32,7 @@
 
                 <!-- Logo -->
                 <a href="{{ url('/') }}" class="navbar-brand">
-                    <img src="{{asset('img/cleanlogo.png')}}" alt="InstaClone Logo" >
+                    <img src="{{asset('img/cleanlogo.png')}}" alt="Bluetube Logo" >
                 </a>
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbar5">
                     <span class="navbar-toggler-icon"></span>
